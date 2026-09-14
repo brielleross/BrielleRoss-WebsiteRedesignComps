@@ -5,3 +5,44 @@ body {
     color: #36454F;
     text-align: center;
 }
+
+.websitev1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 50px;
+}
+
+.websitev2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 50px;
+}
+
+.web-img {
+    width: 25%;
+}
+
+.mobilev1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 50px;
+}
+
+.mobilev2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 50px;
+}
+
+.mobile-img {
+    width: 15%;
+}
+
+h3 {
+    padding-top: 50px; 
+    padding-bottom: 20px;
+}
